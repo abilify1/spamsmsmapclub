@@ -2,8 +2,8 @@
 Unlimited
 
 $ pkg update\
-$ git clone https://github.com/AbilSeno/spamsmsmapclub\
+$ git clone https://github.com/AbilSeno/spamsmsmapclub \
 $ cd spamsmsmapclub\
-$ python2 spam5.py\
+$ python2 spam5.py
 >>> Jangan BarBar
 
